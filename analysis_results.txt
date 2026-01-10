@@ -1,0 +1,7 @@
+Analyzing daily_quoates...                                      
+
+   info - Missing type annotation - lib\utils\input_text.dart:37:10 - strict_top_level_inference
+   info - Missing type annotation - lib\utils\utils.dart:6:10 - strict_top_level_inference
+   info - Missing type annotation - lib\utils\utils.dart:33:10 - strict_top_level_inference
+   info - Use a 'SizedBox' to add whitespace to a layout - lib\view\screens\splash_screen.dart:55:20 - sized_box_for_whitespace
+

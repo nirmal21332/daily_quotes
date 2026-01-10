@@ -1,0 +1,45 @@
+name: daily_quoates
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  google_fonts: ^6.3.3
+  gap: ^3.0.1
+  animated_loading_bar: ^0.0.3
+  form_validator: ^2.1.1
+  flutter_screenutil: ^5.9.3
+
+  firebase_core: ^2.32.0
+  firebase_auth: ^4.20.0
+  google_sign_in: ^6.2.1
+
+  riverpod: ^3.1.0
+  flutter_riverpod: ^3.1.0
+  http: ^1.6.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.2
+  flutter_launcher_icons: ^0.14.4
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/logo.png"
+  min_sdk_android: 21
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/

@@ -1,0 +1,5 @@
+Analyzing daily_quoates...                                      
+
+  error - The element type 'InputDecoration' can't be assigned to the list type 'Widget' - lib\view\screens\login_screen.dart:73:13 - list_element_type_not_assignable
+   info - Use a 'SizedBox' to add whitespace to a layout - lib\view\splash_screen.dart:55:20 - sized_box_for_whitespace
+

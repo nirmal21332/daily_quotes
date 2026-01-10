@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "427823845632",
+    "project_id": "quote-builder-35375",
+    "storage_bucket": "quote-builder-35375.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427823845632:android:298ef4d6590da453c363e5",
+        "android_client_info": {
+          "package_name": "com.example.daily_quoates"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427823845632-nn30tr2k1kkps84te7ljpp5e62255q4u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.daily_quoates",
+            "certificate_hash": "10de0a50dd4107e6562300b7cca42d517255ed5a"
+          }
+        },
+        {
+          "client_id": "427823845632-i2m9d5snj79um4t3vu0rmh28garapqa1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9rsZVi31XRuST5rCQ0vqtFsPSZ7Fnafw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "427823845632-i2m9d5snj79um4t3vu0rmh28garapqa1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "427823845632-eg6glhj2s4okd9qimu2p46jbnmnkq0at.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.dailyQuoates"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,7 @@
+Analyzing test_google.dart...
+
+  error - test_google.dart:4:38 - The class 'GoogleSignIn' doesn't have an unnamed constructor. Try using one of the named constructors defined in 'GoogleSignIn'. - new_with_undefined_constructor_default
+  error - test_google.dart:5:17 - The method 'signIn' isn't defined for the type 'GoogleSignIn'. Try correcting the name to the name of an existing method, or defining a method named 'signIn'. - undefined_method
+   info - test_google.dart:4:22 - The local variable '_googleSignIn' starts with an underscore. Try renaming the variable to not start with an underscore. - no_leading_underscores_for_local_identifiers
+
+3 issues found.
